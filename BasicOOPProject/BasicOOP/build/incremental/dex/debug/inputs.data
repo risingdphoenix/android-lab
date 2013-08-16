@@ -1,24 +1,24 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+1376110286015 198 13c1de7bf6acb2de427d8ded7efb81a3afc1b62a C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\GetCreatedTimes.class
 1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
-1376065378078 434 e4b5d2576f363b007d17707915623b961ebc80bd C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$dimen.class
-1376076377828 3906 bfa73803bf9049a69a8d8776b796034314a3cd96 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\activity\MainActivity.class
-1376065377953 1005 0a7d77a706f40798fa7ee4b70d0363dd80acbf8a C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Ninja.class
-1376076377828 1971 c1b0a2468757ee5f9c93a9bd225e660f1fa72aad C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Player.class
-1376076377937 626 c049e16ef400aa98c8d27c0d771eb006a9220f74 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R.class
-1376076377921 445 63aab8c964396490e9336f3d5fda18b0f2ec9520 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$string.class
-1376065378078 313 e125cfaf5f86982af9b36f9d3f557269a5df9fca C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$attr.class
-1376076377921 1116 bb7ae829ab9180d1aef2ac7755e2b761086903a9 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$id.class
-1376074150187 500 da56e47dca1fcd8e7085b953d6c39e539094797e C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$drawable.class
-1376035090968 327 8e09547f07defe7d4172bbf605c8ec0cde335b50 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\BuildConfig.class
-1376065377937 198 13c1de7bf6acb2de427d8ded7efb81a3afc1b62a C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\GetCreatedTimes.class
-1376065378015 1015 e991d4ad3a6fa10432dfaff040181ff50e3682dd C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Warrior.class
-1376065378078 367 9ede42e60c18b0402590e0e6250a5a6fc1701a50 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$array.class
-1376065378031 1011 2a5038c780b4378a431611e5c105587661472ba8 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Wizard.class
-1376076377937 404 cccc68a7c069aea4d987b6409cfb2d92abf281ca C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$style.class
-1376076377625 950 0dffbfd470832dfaa31978d8a413ac00116407b4 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\activity\MainActivity$1.class
-1376076377921 361 51e7c4ced556b7874738108188f4f09ae34080b8 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$menu.class
-1376076377843 711 f712d3a2f5502250c9244e16a24d658bede74405 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\BaseClass.class
-1376076377921 376 fa2748e290938623ff2f8a3c834c3b2e3c027b40 C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$layout.class
-1376076377875 1089 715a2b12b2dfa02ed17cc762c3e8e273ffee654b C:\Documents and Settings\USER\AndroidStudioProjects\Lab2-Layout\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Novice.class
+1376110286140 434 e4b5d2576f363b007d17707915623b961ebc80bd C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$dimen.class
+1376110286046 1007 ca028642b3d2d6ed9f981845099dea423bc45c57 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Ninja.class
+1376110286156 445 63aab8c964396490e9336f3d5fda18b0f2ec9520 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$string.class
+1376110286093 1015 e991d4ad3a6fa10432dfaff040181ff50e3682dd C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Warrior.class
+1376110286171 327 8e09547f07defe7d4172bbf605c8ec0cde335b50 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\BuildConfig.class
+1376110286140 1116 bb7ae829ab9180d1aef2ac7755e2b761086903a9 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$id.class
+1376110286000 711 f712d3a2f5502250c9244e16a24d658bede74405 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\BaseClass.class
+1376110286140 500 da56e47dca1fcd8e7085b953d6c39e539094797e C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$drawable.class
+1376110286156 404 cccc68a7c069aea4d987b6409cfb2d92abf281ca C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$style.class
+1376110286125 313 e125cfaf5f86982af9b36f9d3f557269a5df9fca C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$attr.class
+1376110285906 950 0dffbfd470832dfaa31978d8a413ac00116407b4 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\activity\MainActivity$1.class
+1376110286000 1971 c1b0a2468757ee5f9c93a9bd225e660f1fa72aad C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Player.class
+1376110286156 376 fa2748e290938623ff2f8a3c834c3b2e3c027b40 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$layout.class
+1376110286125 367 9ede42e60c18b0402590e0e6250a5a6fc1701a50 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$array.class
+1376110286156 626 c049e16ef400aa98c8d27c0d771eb006a9220f74 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R.class
+1376110286109 1011 2a5038c780b4378a431611e5c105587661472ba8 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Wizard.class
+1376110286156 361 51e7c4ced556b7874738108188f4f09ae34080b8 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\R$menu.class
+1376110286078 1089 715a2b12b2dfa02ed17cc762c3e8e273ffee654b C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\model\Novice.class
+1376110285984 3906 bfa73803bf9049a69a8d8776b796034314a3cd96 C:\Documents and Settings\USER\My Documents\GitHub\android-lab\BasicOOPProject\BasicOOP\build\classes\debug\oop\basic\activity\MainActivity.class
